@@ -1,0 +1,28 @@
+#Tensorflow 2.10 Conda Packages
+
+channels:
+  - defaults
+
+dependencies:
+  #Tensorflow 2.10 Requirements
+  - python>=3.8, <=3.11
+  - conda-forge::cudatoolkit=11.2
+  - conda-forge::cudnn=8.1.0
+  - nvidia::cuda-nvcc
+  #Extra Tensorflow Packages
+  #- tensorflow-datasets
+  - pydot
+
+  #Pip Packages
+  - pip
+  - pip:
+    #Tensorflow 2.10 Requirements
+    - tensorflow==2.10.*
+    #Extra Tensorflow Packages
+    - tensorflow-addons
+    #- git+https://github.com/eduardoscsouza/tensorflow_examples_version_fix.git
+    #- nvidia-tensorrt --extra-index-url https://pypi.ngc.nvidia.com
+
+variables:
+  #GPU Support Fix for Tensorflow>=2.7
+  LD_LIBRARY_PATH: "'$LD_LIBRARY_PATH:/lib/x86_64-linux-gnu/:$CONDA_PREFIX/lib/'"

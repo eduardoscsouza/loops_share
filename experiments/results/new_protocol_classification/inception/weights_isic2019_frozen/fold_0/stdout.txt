@@ -1,0 +1,78 @@
+Experiment starting at: 1685760046.9881084
+
+Epoch 1: val_weighted_accuracy improved from -inf to 0.72777, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/inception/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 2: val_weighted_accuracy did not improve from 0.72777
+
+Epoch 3: val_weighted_accuracy did not improve from 0.72777
+
+Epoch 4: val_weighted_accuracy did not improve from 0.72777
+
+Epoch 5: val_weighted_accuracy improved from 0.72777 to 0.72996, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/inception/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 6: val_weighted_accuracy did not improve from 0.72996
+
+Epoch 7: val_weighted_accuracy improved from 0.72996 to 0.76363, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/inception/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 8: val_weighted_accuracy did not improve from 0.76363
+
+Epoch 9: val_weighted_accuracy did not improve from 0.76363
+
+Epoch 10: val_weighted_accuracy did not improve from 0.76363
+
+Epoch 11: val_weighted_accuracy improved from 0.76363 to 0.78778, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/inception/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 12: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 13: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 14: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 15: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 16: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 17: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 18: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 19: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 20: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 21: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 22: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 23: val_weighted_accuracy did not improve from 0.78778
+
+Epoch 24: val_weighted_accuracy improved from 0.78778 to 0.79510, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/inception/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 25: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 26: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 27: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 28: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 29: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 30: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 31: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 32: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 33: val_weighted_accuracy improved from 0.79510 to 0.79510, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/inception/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 34: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 35: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 36: val_weighted_accuracy did not improve from 0.79510
+
+Epoch 37: val_weighted_accuracy improved from 0.79510 to 0.79985, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/inception/weights_isic2019_frozen/fold_0/best_model_weights.h5
+Epoch 37: early stopping
+Experiment finished at: 1685761552.4923763
+Elapsed: 1505.5042679309845

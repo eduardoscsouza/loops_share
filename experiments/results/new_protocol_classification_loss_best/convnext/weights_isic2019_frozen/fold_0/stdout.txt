@@ -1,0 +1,116 @@
+Experiment starting at: 1687493940.2140088
+
+Epoch 1: val_loss improved from inf to 0.69138, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 2: val_loss improved from 0.69138 to 0.68157, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 3: val_loss improved from 0.68157 to 0.67594, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 4: val_loss improved from 0.67594 to 0.66961, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 5: val_loss improved from 0.66961 to 0.66727, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 6: val_loss improved from 0.66727 to 0.66398, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 7: val_loss improved from 0.66398 to 0.66207, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 8: val_loss improved from 0.66207 to 0.66078, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 9: val_loss improved from 0.66078 to 0.65963, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 10: val_loss improved from 0.65963 to 0.65822, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 11: val_loss did not improve from 0.65822
+
+Epoch 12: val_loss improved from 0.65822 to 0.65759, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 13: val_loss did not improve from 0.65759
+
+Epoch 14: val_loss improved from 0.65759 to 0.65720, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 15: val_loss did not improve from 0.65720
+
+Epoch 16: val_loss improved from 0.65720 to 0.65717, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 17: val_loss did not improve from 0.65717
+
+Epoch 18: val_loss did not improve from 0.65717
+
+Epoch 19: val_loss did not improve from 0.65717
+
+Epoch 20: val_loss did not improve from 0.65717
+
+Epoch 21: val_loss did not improve from 0.65717
+
+Epoch 22: val_loss did not improve from 0.65717
+
+Epoch 23: val_loss improved from 0.65717 to 0.65638, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 24: val_loss did not improve from 0.65638
+
+Epoch 25: val_loss improved from 0.65638 to 0.65545, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 26: val_loss did not improve from 0.65545
+
+Epoch 27: val_loss improved from 0.65545 to 0.65536, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 28: val_loss improved from 0.65536 to 0.65520, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/convnext/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 29: val_loss did not improve from 0.65520
+
+Epoch 30: val_loss did not improve from 0.65520
+
+Epoch 31: val_loss did not improve from 0.65520
+
+Epoch 32: val_loss did not improve from 0.65520
+
+Epoch 33: val_loss did not improve from 0.65520
+
+Epoch 34: val_loss did not improve from 0.65520
+
+Epoch 35: val_loss did not improve from 0.65520
+
+Epoch 36: val_loss did not improve from 0.65520
+
+Epoch 37: val_loss did not improve from 0.65520
+
+Epoch 38: val_loss did not improve from 0.65520
+
+Epoch 39: val_loss did not improve from 0.65520
+
+Epoch 40: val_loss did not improve from 0.65520
+
+Epoch 41: val_loss did not improve from 0.65520
+
+Epoch 42: val_loss did not improve from 0.65520
+
+Epoch 43: val_loss did not improve from 0.65520
+
+Epoch 44: val_loss did not improve from 0.65520
+
+Epoch 45: val_loss did not improve from 0.65520
+
+Epoch 46: val_loss did not improve from 0.65520
+
+Epoch 47: val_loss did not improve from 0.65520
+
+Epoch 48: val_loss did not improve from 0.65520
+
+Epoch 49: val_loss did not improve from 0.65520
+
+Epoch 50: val_loss did not improve from 0.65520
+
+Epoch 51: val_loss did not improve from 0.65520
+
+Epoch 52: val_loss did not improve from 0.65520
+
+Epoch 53: val_loss did not improve from 0.65520
+
+Epoch 54: val_loss did not improve from 0.65520
+
+Epoch 55: val_loss did not improve from 0.65520
+
+Epoch 56: val_loss did not improve from 0.65520
+Epoch 56: early stopping
+Experiment finished at: 1687496725.0620708
+Elapsed: 2784.8480620384216

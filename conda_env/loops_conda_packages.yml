@@ -1,0 +1,15 @@
+#LOOPS Conda Packages
+
+channels:
+  - defaults
+
+dependencies:
+  #LOOPS Specific Packages
+  - shapely
+  #- conda-forge::imagemagick
+  #- conda-forge::parallel
+  #- conda-forge::rdfind
+  - conda-forge::pycocotools
+  - pip
+  - pip:
+    - elasticdeform

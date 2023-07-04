@@ -1,0 +1,50 @@
+Experiment starting at: 1686020248.5032392
+
+Epoch 1: val_weighted_accuracy improved from -inf to 0.50492, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/vgg/weights_imagenet+isic2019_frozen_finetuned/fold_0/best_model_weights.h5
+
+Epoch 2: val_weighted_accuracy improved from 0.50492 to 0.59275, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/vgg/weights_imagenet+isic2019_frozen_finetuned/fold_0/best_model_weights.h5
+
+Epoch 3: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 4: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 5: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 6: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 7: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 8: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 9: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 10: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 11: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 12: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 13: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 14: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 15: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 16: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 17: val_weighted_accuracy did not improve from 0.59275
+
+Epoch 18: val_weighted_accuracy improved from 0.59275 to 0.65532, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/vgg/weights_imagenet+isic2019_frozen_finetuned/fold_0/best_model_weights.h5
+
+Epoch 19: val_weighted_accuracy did not improve from 0.65532
+
+Epoch 20: val_weighted_accuracy did not improve from 0.65532
+
+Epoch 21: val_weighted_accuracy did not improve from 0.65532
+
+Epoch 22: val_weighted_accuracy did not improve from 0.65532
+
+Epoch 23: val_weighted_accuracy did not improve from 0.65532
+Epoch 23: early stopping
+Experiment finished at: 1686021023.6242723
+Elapsed: 775.1210331916809

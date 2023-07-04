@@ -1,0 +1,15 @@
+#Pytorch 1.13 Conda Packages
+
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+
+dependencies:
+  #Pytorch 1.13 Requirements
+  - pytorch::pytorch=1.13
+  - pytorch::pytorch-cuda=11.7
+
+  #Extra Pytorch Packages
+  - pytorch::torchvision
+  - pytorch::torchaudio

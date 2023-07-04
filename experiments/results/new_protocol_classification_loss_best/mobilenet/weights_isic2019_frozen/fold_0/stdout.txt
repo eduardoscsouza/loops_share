@@ -1,0 +1,94 @@
+Experiment starting at: 1687496730.9390037
+
+Epoch 1: val_loss improved from inf to 0.67955, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/mobilenet/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 2: val_loss improved from 0.67955 to 0.66987, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/mobilenet/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 3: val_loss did not improve from 0.66987
+
+Epoch 4: val_loss improved from 0.66987 to 0.66056, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/mobilenet/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 5: val_loss did not improve from 0.66056
+
+Epoch 6: val_loss did not improve from 0.66056
+
+Epoch 7: val_loss did not improve from 0.66056
+
+Epoch 8: val_loss improved from 0.66056 to 0.65775, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/mobilenet/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 9: val_loss did not improve from 0.65775
+
+Epoch 10: val_loss improved from 0.65775 to 0.65767, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/mobilenet/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 11: val_loss improved from 0.65767 to 0.65416, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/mobilenet/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 12: val_loss did not improve from 0.65416
+
+Epoch 13: val_loss did not improve from 0.65416
+
+Epoch 14: val_loss did not improve from 0.65416
+
+Epoch 15: val_loss did not improve from 0.65416
+
+Epoch 16: val_loss did not improve from 0.65416
+
+Epoch 17: val_loss did not improve from 0.65416
+
+Epoch 18: val_loss did not improve from 0.65416
+
+Epoch 19: val_loss did not improve from 0.65416
+
+Epoch 20: val_loss did not improve from 0.65416
+
+Epoch 21: val_loss did not improve from 0.65416
+
+Epoch 22: val_loss did not improve from 0.65416
+
+Epoch 23: val_loss did not improve from 0.65416
+
+Epoch 24: val_loss did not improve from 0.65416
+
+Epoch 25: val_loss did not improve from 0.65416
+
+Epoch 26: val_loss did not improve from 0.65416
+
+Epoch 27: val_loss did not improve from 0.65416
+
+Epoch 28: val_loss did not improve from 0.65416
+
+Epoch 29: val_loss did not improve from 0.65416
+
+Epoch 30: val_loss improved from 0.65416 to 0.65386, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/mobilenet/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 31: val_loss did not improve from 0.65386
+
+Epoch 32: val_loss improved from 0.65386 to 0.65327, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification_loss_best/mobilenet/weights_isic2019_frozen/fold_0/best_model_weights.h5
+
+Epoch 33: val_loss did not improve from 0.65327
+
+Epoch 34: val_loss did not improve from 0.65327
+
+Epoch 35: val_loss did not improve from 0.65327
+
+Epoch 36: val_loss did not improve from 0.65327
+
+Epoch 37: val_loss did not improve from 0.65327
+
+Epoch 38: val_loss did not improve from 0.65327
+
+Epoch 39: val_loss did not improve from 0.65327
+
+Epoch 40: val_loss did not improve from 0.65327
+
+Epoch 41: val_loss did not improve from 0.65327
+
+Epoch 42: val_loss did not improve from 0.65327
+
+Epoch 43: val_loss did not improve from 0.65327
+
+Epoch 44: val_loss did not improve from 0.65327
+
+Epoch 45: val_loss did not improve from 0.65327
+Epoch 45: early stopping
+Experiment finished at: 1687498473.9313095
+Elapsed: 1742.9923057556152

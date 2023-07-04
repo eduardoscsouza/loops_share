@@ -1,0 +1,57 @@
+#YOLOv5 Conda Packages
+
+channels:
+  - defaults
+
+dependencies:
+  #YOLOv5 Base Packages
+  - gitpython   ### May Conflict With Other Packages
+  - ipython
+  - matplotlib>=3.2.2   ### May Conflict With Other Packages
+  - numpy>=1.18.5   ### May Conflict With Other Packages
+  - pillow>=7.1.2   ### May Conflict With Other Packages
+  - psutil
+  - pyyaml>=5.3.1
+  - requests>=2.23.0
+  - scipy>=1.4.1   ### May Conflict With Other Package
+  #- pytorch>=1.7.0   ### May Conflict With Other Packages
+  #- torchvision>=0.8.1   ### May Conflict With Other Packages
+  - tqdm>=4.64.0
+  #- protobuf<=3.20.1   ### May Conflict With Other Packages
+
+  #YOLOv5 Logging Packages
+  #- tensorboard>=2.4.1   ### May Conflict With Other Packages
+  #- clearml>=1.2.0
+  #- comet
+
+  #YOLOv5 Plotting Packages
+  - pandas>=1.1.4   ### May Conflict With Other Packages
+  - seaborn>=0.11.0   ### May Conflict With Other Packages
+
+  #YOLOv5 Export Packages
+  #- coremltools>=6.0   ### May Conflict With Other Packages
+  #- onnx>=1.12.0
+  #- onnx-simplifier>=0.4.1
+  #- nvidia-pyindex   ### May Conflict With Other Packages
+  #- nvidia-tensorrt   ### May Conflict With Other Packages
+  #- scikit-learn<=1.1.2   ### May Conflict With Other Packages
+  #- tensorflow>=2.4.1   ### May Conflict With Other Packages
+  #- tensorflowjs>=3.9.0
+  #- openvino-dev
+
+  #YOLOv5 Extra Packages
+  #- mss
+  #- albumentations>=1.0.3
+  #- pycocotools>=2.0.6
+  #- roboflow
+  #- ultralytics
+
+  #Pip Packages
+  - pip
+  - pip:
+    #YOLOv5 Base Packages
+    - opencv-python>=4.1.1   ### May Conflict With Other Packages
+    - thop>=0.1.1
+
+    #YOLOv5 Deploy Packages
+    #- tritonclient[all]~=2.24.0

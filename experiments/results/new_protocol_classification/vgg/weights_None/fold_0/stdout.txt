@@ -1,0 +1,48 @@
+Experiment starting at: 1685688261.0417945
+
+Epoch 1: val_weighted_accuracy improved from -inf to 0.49508, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/vgg/weights_None/fold_0/best_model_weights.h5
+
+Epoch 2: val_weighted_accuracy improved from 0.49508 to 0.50492, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/vgg/weights_None/fold_0/best_model_weights.h5
+
+Epoch 3: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 4: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 5: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 6: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 7: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 8: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 9: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 10: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 11: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 12: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 13: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 14: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 15: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 16: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 17: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 18: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 19: val_weighted_accuracy improved from 0.50492 to 0.50492, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/vgg/weights_None/fold_0/best_model_weights.h5
+
+Epoch 20: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 21: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 22: val_weighted_accuracy did not improve from 0.50492
+Epoch 22: early stopping
+Experiment finished at: 1685688823.051207
+Elapsed: 562.0094125270844

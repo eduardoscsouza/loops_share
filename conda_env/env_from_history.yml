@@ -1,0 +1,38 @@
+name: loops
+channels:
+  - defaults
+dependencies:
+  - pip
+  - runipy
+  - numpy[version='>=1.18.5']
+  - jupyterlab
+  - python[version='>=3.8,<=3.11']
+  - imageio
+  - scikit-learn
+  - bokeh
+  - matplotlib[version='>=3.2.2']
+  - pillow[version='>=7.1.2']
+  - scikit-image
+  - pandas[version='>=1.1.4']
+  - conda-forge::cudatoolkit=11.2
+  - nvidia::cuda-nvcc
+  - conda-forge::cudnn=8.1.0
+  - pydot
+  - pytorch::torchvision
+  - pytorch::torchaudio
+  - pytorch::pytorch-cuda=11.7
+  - pytorch::pytorch=1.13
+  - seaborn[version='>=0.11.0']
+  - psutil
+  - ipython
+  - pyyaml[version='>=5.3.1']
+  - scipy[version='>=1.4.1']
+  - tqdm[version='>=4.64.0']
+  - gitpython
+  - requests[version='>=2.23.0']
+  - shapely
+  - pycocotools
+variables:
+  LOOPS_PATH: /home/wheatley/Documents/code/loops/
+  LD_LIBRARY_PATH: "'$LD_LIBRARY_PATH:/lib/x86_64-linux-gnu/:$CONDA_PREFIX/lib/'"
+prefix: /home/wheatley/miniconda3/envs/loops

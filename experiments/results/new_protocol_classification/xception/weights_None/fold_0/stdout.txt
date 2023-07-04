@@ -1,0 +1,503 @@
+Experiment starting at: 1685688825.1550472
+
+Epoch 1: val_weighted_accuracy improved from -inf to 0.50492, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 2: val_weighted_accuracy improved from 0.50492 to 0.50492, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 3: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 4: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 5: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 6: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 7: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 8: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 9: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 10: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 11: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 12: val_weighted_accuracy did not improve from 0.50492
+
+Epoch 13: val_weighted_accuracy improved from 0.50492 to 0.51700, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 14: val_weighted_accuracy improved from 0.51700 to 0.57737, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 15: val_weighted_accuracy improved from 0.57737 to 0.67691, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 16: val_weighted_accuracy did not improve from 0.67691
+
+Epoch 17: val_weighted_accuracy did not improve from 0.67691
+
+Epoch 18: val_weighted_accuracy improved from 0.67691 to 0.73253, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 19: val_weighted_accuracy did not improve from 0.73253
+
+Epoch 20: val_weighted_accuracy did not improve from 0.73253
+
+Epoch 21: val_weighted_accuracy did not improve from 0.73253
+
+Epoch 22: val_weighted_accuracy improved from 0.73253 to 0.74241, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 23: val_weighted_accuracy did not improve from 0.74241
+
+Epoch 24: val_weighted_accuracy did not improve from 0.74241
+
+Epoch 25: val_weighted_accuracy did not improve from 0.74241
+
+Epoch 26: val_weighted_accuracy did not improve from 0.74241
+
+Epoch 27: val_weighted_accuracy improved from 0.74241 to 0.80498, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 28: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 29: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 30: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 31: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 32: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 33: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 34: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 35: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 36: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 37: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 38: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 39: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 40: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 41: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 42: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 43: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 44: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 45: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 46: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 47: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 48: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 49: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 50: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 51: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 52: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 53: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 54: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 55: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 56: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 57: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 58: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 59: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 60: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 61: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 62: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 63: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 64: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 65: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 66: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 67: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 68: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 69: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 70: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 71: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 72: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 73: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 74: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 75: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 76: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 77: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 78: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 79: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 80: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 81: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 82: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 83: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 84: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 85: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 86: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 87: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 88: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 89: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 90: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 91: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 92: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 93: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 94: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 95: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 96: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 97: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 98: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 99: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 100: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 101: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 102: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 103: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 104: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 105: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 106: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 107: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 108: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 109: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 110: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 111: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 112: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 113: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 114: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 115: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 116: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 117: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 118: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 119: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 120: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 121: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 122: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 123: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 124: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 125: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 126: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 127: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 128: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 129: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 130: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 131: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 132: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 133: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 134: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 135: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 136: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 137: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 138: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 139: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 140: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 141: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 142: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 143: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 144: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 145: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 146: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 147: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 148: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 149: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 150: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 151: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 152: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 153: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 154: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 155: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 156: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 157: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 158: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 159: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 160: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 161: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 162: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 163: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 164: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 165: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 166: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 167: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 168: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 169: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 170: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 171: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 172: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 173: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 174: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 175: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 176: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 177: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 178: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 179: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 180: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 181: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 182: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 183: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 184: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 185: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 186: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 187: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 188: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 189: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 190: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 191: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 192: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 193: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 194: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 195: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 196: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 197: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 198: val_weighted_accuracy did not improve from 0.80498
+
+Epoch 199: val_weighted_accuracy improved from 0.80498 to 0.81705, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 200: val_weighted_accuracy did not improve from 0.81705
+
+Epoch 201: val_weighted_accuracy did not improve from 0.81705
+
+Epoch 202: val_weighted_accuracy did not improve from 0.81705
+
+Epoch 203: val_weighted_accuracy improved from 0.81705 to 0.82657, saving model to /home/escsouza@pos.usricmc.icmc.usp.br/loops/experiments/results/new_protocol_classification/xception/weights_None/fold_0/best_model_weights.h5
+
+Epoch 204: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 205: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 206: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 207: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 208: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 209: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 210: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 211: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 212: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 213: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 214: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 215: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 216: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 217: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 218: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 219: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 220: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 221: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 222: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 223: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 224: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 225: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 226: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 227: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 228: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 229: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 230: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 231: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 232: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 233: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 234: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 235: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 236: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 237: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 238: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 239: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 240: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 241: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 242: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 243: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 244: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 245: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 246: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 247: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 248: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 249: val_weighted_accuracy did not improve from 0.82657
+
+Epoch 250: val_weighted_accuracy did not improve from 0.82657
+Experiment finished at: 1685696145.4568002
+Elapsed: 7320.301753044128
